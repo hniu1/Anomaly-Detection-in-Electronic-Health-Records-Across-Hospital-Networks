@@ -4,7 +4,8 @@ This repo contains the code and package we used for the study. In this article, 
 
 Note: we are updating the repo and preparing sample data for testing.
 
-![alt](img/Figure1.pdf)
+![alt](img/Picture1.png)
+Figure. The framework of anomaly detection across hospital networks.
 
 ## Installation
 
